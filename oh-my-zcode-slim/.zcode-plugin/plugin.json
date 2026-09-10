@@ -1,0 +1,8 @@
+{
+  "name": "oh-my-zcode-slim",
+  "version": "0.2.0",
+  "description": "OMOS-style agent orchestration suite for ZCode: specialist subagents (coder, explorer, librarian, oracle, designer, observer), a council synthesizer, and deepwork/verification/worktree skills. Council seats are user-configurable via scripts. Ported from oh-my-opencode-slim.",
+  "agents": "agents",
+  "skills": "skills",
+  "commands": "commands"
+}

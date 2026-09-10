@@ -1,0 +1,10 @@
+{
+  "name": "oh-my-zcode-slim",
+  "plugins": [
+    {
+      "name": "oh-my-zcode-slim",
+      "source": "./oh-my-zcode-slim",
+      "description": "OMOS-style agent orchestration suite for ZCode: specialist subagents, multi-model council, and workflow skills."
+    }
+  ]
+}
